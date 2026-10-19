@@ -1,0 +1,33 @@
+{
+  "snapshotAt": "2026-10-14T07:13:01.886835+00:00",
+  "environment": "development",
+  "counts": {
+    "brands": 18,
+    "members": 7,
+    "accounts": 28,
+    "leads": 374,
+    "inquiries": 375,
+    "notes": 368,
+    "meetings": 135,
+    "callbacks": 82,
+    "activities": 536,
+    "documents": 5
+  },
+  "dataFiles": {
+    "development/v3/d1/miniflare-D1DatabaseObject/37202af4a48e51a6f9bf1676145f85cdbaaf76a4a51b95f5120b328bf5460e72.sqlite": "5ad9ce03a45bfe318ac78302dc2c8b23e5fedc2371aa146290a04d65ecec3f04",
+    "development/v3/d1/miniflare-D1DatabaseObject/metadata.sqlite": "e80be78ef12d530b21e07d21b0fa567a1943dd21263fa5b89ef2ee0684f093eb",
+    "development/v3/r2/miniflare-R2BucketObject/metadata.sqlite": "594c8bc837268561a196629611bde9f66deaa5b531888c6a3435142fe383666e"
+  },
+  "allBrandsUseDemoData": true,
+  "dingdingCollectionEnabled": false,
+  "excluded": [
+    "Git history",
+    "node_modules",
+    "macOS binaries",
+    "active sessions",
+    "old feedback passwords",
+    "local plaintext credential files",
+    "unrelated projects"
+  ],
+  "scoringExamples": true
+}
